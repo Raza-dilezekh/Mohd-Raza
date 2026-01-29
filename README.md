@@ -9,14 +9,14 @@
 - 💻 I love building scalable web applications and APIs  
 - 🌱 Currently improving my backend & system design skills  
 - 🚀 Interested in real-world projects and startups  
-- 📫 Reach me at **rzak@gmail.com**
+- 📫 Reach me at **rzak9035@gmail.com**
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="mailto:rzak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rzak%40gmail.com-red?style=flat&logo=gmail" />
+  <a href="mailto:rzak9035@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rzak9035%40gmail.com-red?style=flat&logo=gmail" />
   </a>
 </p>
 
