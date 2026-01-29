@@ -16,7 +16,7 @@
 ### 🤝 Connect with Me
 <p align="left">
   <a href="mailto:rzak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kthebakk%40gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-rzak%40gmail.com-red?style=flat&logo=gmail" />
   </a>
 </p>
 
