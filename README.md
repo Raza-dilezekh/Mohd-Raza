@@ -9,7 +9,7 @@
 - 💻 I love building scalable web applications and APIs  
 - 🌱 Currently improving my backend & system design skills  
 - 🚀 Interested in real-world projects and startups  
-- 📫 Reach me at **kthebakk@gmail.com**
+- 📫 Reach me at **rzak@gmail.com**
 
 ---
 
